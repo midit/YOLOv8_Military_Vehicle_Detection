@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/f0f0b6cb-c6da-4136-b26c-624607d19494)
 # YOLOv8 Military Vehicle Detection
 
 ## Overview
